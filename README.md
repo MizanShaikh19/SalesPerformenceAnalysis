@@ -149,9 +149,3 @@ SALES_PERFORMANCE_ANALYSIS/
 |__ README.md
 
 ---
-
-#  Contact
-**Bhargavi Chinnaparapu**  
-
- LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
- GitHub: https://github.com/bhargavichinnaparapu
